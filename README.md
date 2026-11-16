@@ -1,4 +1,4 @@
-<h2 align="center">LP-DSI: Low-Pass Feature Distillation from a SAR Foundation Model for Ship Detection</h2>
+<h2 align="center">LEARNING WHAT TO DISTILL: DOMAIN-AWARE LOW-PASS DISTILLATION FOR SAR SHIP DETECTION</h2>
 
 ---
 
